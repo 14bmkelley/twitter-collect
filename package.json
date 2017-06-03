@@ -1,0 +1,23 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stream.js",
+  "scripts": {
+    "test": "node stream.js"
+  },
+  "author": "Brandon M. Kelley",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "emotional": "0.0.3",
+    "lda": "^0.1.9",
+    "node-datetime": "^1.0.0",
+    "request": "^2.81.0",
+    "retext": "^5.0.0",
+    "retext-sentiment": "^4.0.0",
+    "semantria-node": "^3.8.77",
+    "sentiword": "0.0.1",
+    "twitter": "^1.7.0",
+    "unfluff": "^1.1.0"
+  }
+}
